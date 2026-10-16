@@ -233,4 +233,4 @@ This repository serves as the official landing page for Fing. The software is di
 This README provides a comprehensive overview of Fing, ensuring that it is fully optimized for SEO while communicating the essential details about the software effectively and in compliance with GitHub guidelines.
 
 ---
-**Last updated:** 2026-10-16 00:55:31 UTC
+**Last updated:** 2026-10-16 05:20:33 UTC
